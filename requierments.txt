@@ -1,0 +1,12 @@
+flask
+numpy 
+pandas
+sklearn
+folium
+geohash
+pytorch
+python-geohash
+geopandas
+polygon_geohasher
+geojson
+torchvision
